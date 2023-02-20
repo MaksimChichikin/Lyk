@@ -1,0 +1,8 @@
+C:\My-project\Povtorenie\Cirieshka\bin\Debug\Cirieshka.exe.config
+C:\My-project\Povtorenie\Cirieshka\bin\Debug\Cirieshka.exe
+C:\My-project\Povtorenie\Cirieshka\bin\Debug\Cirieshka.pdb
+C:\My-project\Povtorenie\Cirieshka\obj\Debug\Cirieshka.csproj.AssemblyReference.cache
+C:\My-project\Povtorenie\Cirieshka\obj\Debug\Cirieshka.csproj.SuggestedBindingRedirects.cache
+C:\My-project\Povtorenie\Cirieshka\obj\Debug\Cirieshka.csproj.CoreCompileInputs.cache
+C:\My-project\Povtorenie\Cirieshka\obj\Debug\Cirieshka.exe
+C:\My-project\Povtorenie\Cirieshka\obj\Debug\Cirieshka.pdb
