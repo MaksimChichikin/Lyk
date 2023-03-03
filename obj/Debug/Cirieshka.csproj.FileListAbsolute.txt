@@ -6,3 +6,6 @@ C:\My-project\Povtorenie\Cirieshka\obj\Debug\Cirieshka.csproj.SuggestedBindingRe
 C:\My-project\Povtorenie\Cirieshka\obj\Debug\Cirieshka.csproj.CoreCompileInputs.cache
 C:\My-project\Povtorenie\Cirieshka\obj\Debug\Cirieshka.exe
 C:\My-project\Povtorenie\Cirieshka\obj\Debug\Cirieshka.pdb
+C:\My-project\Povtorenie\Cirieshka\bin\Debug\CirieshkaLib.dll
+C:\My-project\Povtorenie\Cirieshka\bin\Debug\CirieshkaLib.pdb
+C:\My-project\Povtorenie\Cirieshka\obj\Debug\Cirieshka.csproj.CopyComplete
